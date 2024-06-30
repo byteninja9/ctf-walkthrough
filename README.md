@@ -1,2 +1,1 @@
 # CTF Walkthrough
-# ctf-walkthrough
